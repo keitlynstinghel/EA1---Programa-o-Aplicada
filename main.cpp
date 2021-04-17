@@ -37,7 +37,7 @@ int main() {
 		}
 	} 
 	else{
-		cout << "Palvras de no máximo 50 caracteres" << endl;
+		cout << "Palavras de no máximo 50 caracteres" << endl;
 	}
 }
 
